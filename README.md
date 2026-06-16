@@ -10,7 +10,7 @@
   
   <h3 style="color: #2F4F4F;">Core Skills:</h3>
   <ul>
-    <li><strong>Cloud Platforms:</strong> AWS GCP </li>
+    <li><strong>Cloud Platforms:</strong> AWS | GCP </li>
     <li><strong>Containerization & Orchestration:</strong> Docker | Kubernetes | Helm</li>
     <li><strong>Infrastructure as Code:</strong> Terraform | Ansible | CloudFormation</li>
     <li><strong>CI/CD:</strong> GitHub Actions | Jenkins | GitLab CI | ArgoCD</li>
