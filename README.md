@@ -19,7 +19,7 @@
   <p style="text-align: center; font-style: italic; color: #555;">“Automate everything, deliver continuously, and improve constantly.”</p>
 </section>
 
-<p align="left">🚀 <b> **DevOps Engineer | Cloud Enthusiast | Automation Lover** </b>  <br> 
+<p align="left">🚀 <b> **DevOps Engineer | Cloud Enthusiast | Automation Lover* </b>  <br> 
 💡 Passionate about building scalable systems, automating workflows, and ensuring smooth CI/CD pipelines.<br>   
 🔧 Skilled in containerization, cloud services, and infrastructure automation.  </p>
 <p align="center">
